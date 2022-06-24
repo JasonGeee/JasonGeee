@@ -1,7 +1,7 @@
 Hi 👋 My name is Jason Gutierrez
 ================================
 
-Inspired Software Engineer and Full-Stack Developer
+Aspired Software Engineer and Full-Stack Developer
 ---------------------------------------------------
 
 I have a Bachelor's Degree in Computer Engineering from CSULB. My passion for web development came a bit late in my studies but as soon as I found out about creating websites, I've decided to go all in for this one. Taking it day by day :)
