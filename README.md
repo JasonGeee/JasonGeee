@@ -4,7 +4,7 @@ Hi 👋 My name is Jason Gutierrez
 Aspired Software Engineer and Full-Stack Developer
 ---------------------------------------------------
 
-I have a Bachelor's Degree in Computer Engineering from CSULB. My passion for web development came a bit late in my studies but as soon as I found out about creating websites, I've decided to go all in for this one. Taking it day by day :)
+I have a Bachelor's Degree in Computer Engineering from CSULB. My passion for web development, software and hardware engineering is growing by the day. Practicing and developing projects to grow my skills.
 
 * 🌍  I'm based in Long Beach, California
 * ✉️  You can contact me at [jasonvgutierrez@gmail.com](mailto:jasonvgutierrez@gmail.com)
